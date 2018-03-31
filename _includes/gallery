@@ -1,0 +1,14 @@
+{% comment %}
+*
+* image_url composition was changed to allow the use of url location from another
+* site as flickr.com, for example
+*
+{% endcomment %}
+<div>
+	<ul class="clearing-thumbs small-block-grid-4" data-clearing>
+		{% for item in page.gallery %}
+		{% capture url %}{{ item.image_url }}{% endcapture %}
+		<li><a href="{{ item.image_url }}"><img {% if item.caption %}data-caption="{{ item.caption }}"{% endif %} src="{{ item.image_url }}" alt="{{ item.caption }}"></a></li>
+		{% endfor %}
+	</ul>
+</div>
