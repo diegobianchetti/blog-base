@@ -17,9 +17,9 @@ name: Diego Bianchetti
 profile_img: 
 profile: Nomade de bicicleta pelo mundo!
 social:
- github: diegobianchetti
- instagram: diegobianchetti
- facebook: bianchettidiego
+ github: gituhub.com/diegobianchetti
+ instagram: instagram.com/diegobianchetti
+ facebook: facebook.com/bianchettidiego
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
