@@ -15,8 +15,8 @@ tags:
     - Nordeste
     - bikenobus
 description:
-image: https://farm5.staticflickr.com/4194/34266914302_3c1172a4d7_o.jpg
-image-sm: https://farm5.staticflickr.com/4194/34266914302_3c1172a4d7_o.jpg
+image: https://farm5.staticflickr.com/4194/34266914302_196eb0f368_h.jpg
+image-sm: https://farm3.staticflickr.com/2812/34295276671_80cf8210bd.jpg
 
 ---
 
