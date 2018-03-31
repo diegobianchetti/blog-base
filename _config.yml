@@ -7,8 +7,8 @@ google_analytics:
 
 # SEO settings
 title: TortugaVoladora
-description: Vuela vuela tortuguita con alas!
-url: "http://tortugavoladora.life"
+description: "Vuela vuela tortuguita con alas!"
+url: "tortugavoladora.life"
 twitter_username: 
 default_img: 
 
@@ -17,9 +17,9 @@ name: Diego Bianchetti
 profile_img: https://farm1.staticflickr.com/872/26263919417_3a7a694f7e_o.jpg
 profile: Nomade de bicicleta pelo mundo!
 social:
-  github: https://gituhub.com/diegobianchetti
-  instagram: https://instagram.com/diegobianchetti
-  facebook: https://facebook.com/bianchettidiego
+  github: "https://github.com/diegobianchetti"
+  instagram: "https://instagram.com/diegobianchetti"
+  facebook: "https://facebook.com/bianchettidiego"
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
