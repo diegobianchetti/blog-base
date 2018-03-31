@@ -1,10 +1,7 @@
 ---
-layout: page
-comments: true
+layout: post
 title: Estrada! é pra isso que vim...
 date: 2017-06-02 01:29:33
-subheadline:  "Nordeste2017"
-teaser: "Até o primeiro destino!"
 categories:
   - Nordeste2017
 tags:
@@ -17,14 +14,14 @@ tags:
   - Nordeste
   - bikenobus
 description:
- image: https://farm3.staticflickr.com/2812/34295276671_a23e4235d6_k.jpg
- image-sm: https://farm3.staticflickr.com/2812/34295276671_a23e4235d6_k.jpg
+image: https://farm3.staticflickr.com/2812/34295276671_a23e4235d6_k.jpg
+image-sm: https://farm3.staticflickr.com/2812/34295276671_a23e4235d6_k.jpg
 
 gallery:
-  - image_url: https://farm5.staticflickr.com/4227/34778996811_4edc021d3f_z.jpg
-  - image_url: https://farm5.staticflickr.com/4199/34523554840_859db821e2_z.jpg
-  - image_url: https://farm5.staticflickr.com/4201/34067679644_e01a6a484a_z.jpg
-  - image_url: https://farm5.staticflickr.com/4274/34523626140_e7880df2ed_z.jpg
+ image_url: https://farm5.staticflickr.com/4227/34778996811_4edc021d3f_z.jpg
+ image_url: https://farm5.staticflickr.com/4199/34523554840_859db821e2_z.jpg
+ image_url: https://farm5.staticflickr.com/4201/34067679644_e01a6a484a_z.jpg
+ image_url: https://farm5.staticflickr.com/4274/34523626140_e7880df2ed_z.jpg
 
 
 ---
