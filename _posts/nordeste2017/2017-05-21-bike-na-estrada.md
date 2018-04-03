@@ -12,7 +12,6 @@ tags:
     - biketravel
     - Brasil
     - Nordeste
-    - bikenobus
 description:
 image: https://farm1.staticflickr.com/820/40474316594_64283f71ab_h.jpg
 image-sm: https://farm5.staticflickr.com/4305/35121379144_2517050022_z.jpg

@@ -12,9 +12,8 @@ tags:
   - biketravel
   - Brasil
   - Nordeste
-  - bikenobus
 description:
-image: https://farm3.staticflickr.com/2812/34295276671_a23e4235d6_k.jpg
+image: https://farm5.staticflickr.com/4245/34869670686_92c5b4da48_h.jpg
 image-sm: https://farm3.staticflickr.com/2812/34295276671_a23e4235d6_k.jpg
 
 gallery:
@@ -22,7 +21,6 @@ gallery:
  image_url: https://farm5.staticflickr.com/4199/34523554840_859db821e2_z.jpg
  image_url: https://farm5.staticflickr.com/4201/34067679644_e01a6a484a_z.jpg
  image_url: https://farm5.staticflickr.com/4274/34523626140_e7880df2ed_z.jpg
-
 
 ---
 
@@ -40,7 +38,7 @@ Saí de Humberto de Campos por volta das 7horas da manhã. Um dia lindo que nova
 
 Depois de 190km nos últimos 2 dias, chegar em Barreirinhas foi muito bom. A estrada é linda. Na saída da MA-402 para a MA-225, no Povoado Sobradinho, cruzei o rio Preguiça e comecei a sentir a força viva da natureza se manifestando de uma maneira muito intensa. Todos meus sentidos estão se abrindo.
 
-[gallery ids="392,395,397,394" type="rectangular"]
+
 
 Como cheguei cedo na cidade, por volta das 3horas da tarde, tive tempo para dar uma volta e conversar com algumas pessoas. Decidi acampar e usar o dinheiro da hospedagem para fazer os passeios nos lençóis e pelo rio. Foi a melhor decisão que eu poderia ter tomado.
 
@@ -48,9 +46,9 @@ Na primeira noite aprendi que devia ter seguido a orientação das pessoas que m
 
 Choveu tanto, mas tanto, que eu quase fui arrastado para dentro do rio com todas minhas coisas. Logo na primeira pancada, ou melhor, dilúvio, descobri que eu estava justamente localizado na foz das 4 ruas que se encontravam perto da saída pro rio onde eu estava acampado. Isso quer dizer, toda a água da chuva dessas ruas chegava no rio através do 'beco' onde eu estava. Foi realmente incrível a força da chuva e assim que ela deu uma trégua eu me apressei para levantar acampamento e mover tudo para um local menos perigoso. Além de toda a água que decia pela ruela que eu estava, o nível do rio também estava subindo devido a cheia da maré (eu realmente pensei que o rio ia chegar onde a barraca estava). Enfim, nada foi parecido ao sonho maravilhoso que eu estava tendo no momento que encontrei esse lugar e montei acampamento.
 
-{% include gallery %}
+{% include gallery.html %}
 
-Depois de fazer a transferência forçada no meio da noite abaixo de chuva, estava tudo tranquilo. A chuva apertou novamente, mas agora eu estava a salvo. Porém, pra minha infelicidade, a chuva espantou para o mesmo lugar que eu estava um cara muito bêbado que estava falando com ele mesmo... muito loco, eu tinha a nítida impressão que ele falava com mais de uma pessoa ao mesmo tempo, e ele também não parava de repetir a palavra "baguinho". Ele ficou lá a noite toda! Enfim... não tinha o que fazer, tentei conversar com ele, assustar ele, colocar a lanterna na cara dele pra ver se ele desistia... nada funcionou. Deixei ele falando sozinho e fui tentar dormir. No outro dia eu descobri que ele era famoso na cidade e que todo mundo conhecia ele por "baguinho" (porque será??), felizmente foi a única noite que ele passou comigo.
+Depois de fazer a mudança no meio da noite abaixo de chuva, estava tudo tranquilo. A chuva apertou novamente, mas agora eu estava a salvo. Porém a chuva espantou para o mesmo lugar que eu estava um cara muito bêbado que estava falando com ele mesmo... muito loco, eu tinha a nítida impressão que ele falava com mais de uma pessoa ao mesmo tempo, tentei contar e pude identificar uns 5 amigos diferentes, e ele também não parava de repetir a palavra "baguinho". Ele ficou lá a noite toda! Enfim... não tinha o que fazer, tentei conversar com ele, assustar ele, colocar a lanterna na cara dele pra ver se ele desistia... nada funcionou. Deixei ele falando sozinho e fui tentar dormir. No outro dia eu descobri que ele era famoso na cidade e que todo mundo conhecia ele por "baguinho" (porque será??), felizmente foi a única noite que ele passou comigo.
 
 <div class="flex-video">
   <iframe src="https://www.youtube.com/embed/kx1U53N3nY0" frameborder="0" allowfullscreen></iframe>

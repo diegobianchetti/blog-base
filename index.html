@@ -17,7 +17,13 @@ layout: default
       <ul class="tabs">
         <li class="tabs__item">Posts</li>
         <li class="tabs__item">Projetos</li>
-        <li class="tabs__item">Sobre</li>
+        <li class="tabs__item">{% include about-link.html %}</li>
+        <!-- adding social network links to the header menu - the next <li></li> block !-->
+        <li>
+          {% for social in site.social %}
+            <a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[1] }}" target="_blank"></a>
+          {% endfor %}
+        </li>
       </ul>
     </header>
 
