@@ -4,6 +4,48 @@
 * site as flickr.com, for example
 *
 {% endcomment %}
+
+<style type="text/css">
+.thumbnails img {
+	height: 80px;
+	border: 4px solid #555;
+	padding: 1px;
+	margin: 0 10px 10px 0;
+}
+
+.thumbnails img:hover {
+	border: 4px solid #00ccff;
+	cursor:pointer;
+}
+
+.preview img {
+	border: 4px solid #444;
+	padding: 1px;
+	width: 800px;
+}
+</style>
+
+<div class="gallery" align="center">
+
+
+
+	<div class="thumbnails">
+		{% for item in page.gallery %}
+		{% capture url %}{{ item.image_url }}{% endcapture %}
+		<img onmouseover="preview.src={{ item.image_url }}" name="{{ item.caption }}" src="{{ item.image_url }}" alt="{{ item.caption }}"/>
+		{% endfor %}
+	</div><br/>
+
+	<div class="preview" align="center">
+		<img name="preview" src="{{ item.image_url }}" alt="{{ item.caption }}"/>
+	</div>
+
+
+</div>
+
+
+
+<!--
 <div>
 	<ul class="clearing-thumbs small-block-grid-4" data-clearing>
 		{% for item in page.gallery %}
@@ -12,3 +54,4 @@
 		{% endfor %}
 	</ul>
 </div>
+!-->
