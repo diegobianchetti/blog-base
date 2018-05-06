@@ -20,26 +20,31 @@ Toda estrutura do está no diretório base do tema ~/Workspace/TortugaVoladora/t
 
 Reporitório BLOG-BASE (https://github.com/diegobianchetti/blog-base)
 
+```
 cd Workspace/TortugaVoladora/tortugavoladora.life/
 git add . (gad)
 git status (gst)
 git commit -m "descricão da alteracão" (gc -m "")
 git push origin master (gpo master)
+```
 
 executar jekyll:
+```
 bundle exec jekyll b (build)
 bundle exec jekyll s (server)
+```
 
 O site compilado fica no diretório _site dentro da base do tema. O conteúdo desse diretório mais o arquivo CNAME são enviados para o GitHub-Pages e é o conteúdo estático do site.
 
 Repositório BLOG (https://github.com/diegobianchetti/tortugavoladora.life)
 
+```
 cd _site/
 git add . (gad)
 git status (gst)
 git commit -m "descricão da alteracão" (gc -m "")
 git push origin master (gpo master)
-
+```
 
 O script build-and-update-commit.sh executa os comando necessários para o gerar o conteúdo estático através do build e depois envia as alteracões locais para os repositórios.
 
