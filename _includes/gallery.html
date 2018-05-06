@@ -5,17 +5,16 @@
 *
 {% endcomment %}
 
-
 <div class="gallery" align="center">
 	<div class="thumbnails">
 		{% for image_url in page.gallery %}
 		{% increment i %}
-					<img onmouseover="preview.src=img{{$i}}.src" name="img{{$i}}" src="{{ image_url }}" alt="{{ item.caption }}"/>
+					<img onmouseover="preview.src=img{{$i}}.src" name="img{{$i}}" src="{{ image_url }}"/>
 		{% endfor %}
 	</div>
 
 	<div class="preview" align="center">
-		<img name="preview" src="img1" alt="{{ item.caption }}"/>
+		<img name="preview" src="img1.src"/>
 	</div>
 
 </div>
