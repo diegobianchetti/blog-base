@@ -17,10 +17,10 @@ image: https://farm5.staticflickr.com/4245/34869670686_92c5b4da48_h.jpg
 image-sm: https://farm3.staticflickr.com/2812/34295276671_a23e4235d6_k.jpg
 
 gallery:
- image_url: https://farm5.staticflickr.com/4227/34778996811_4edc021d3f_z.jpg
- image_url: https://farm5.staticflickr.com/4199/34523554840_859db821e2_z.jpg
- image_url: https://farm5.staticflickr.com/4201/34067679644_e01a6a484a_z.jpg
- image_url: https://farm5.staticflickr.com/4274/34523626140_e7880df2ed_z.jpg
+  - https://farm5.staticflickr.com/4227/34778996811_4edc021d3f_z.jpg
+  - https://farm5.staticflickr.com/4199/34523554840_859db821e2_z.jpg
+  - https://farm5.staticflickr.com/4201/34067679644_e01a6a484a_z.jpg
+  - https://farm5.staticflickr.com/4274/34523626140_e7880df2ed_z.jpg
 
 ---
 
