@@ -50,9 +50,8 @@ Choveu tanto, mas tanto, que eu quase fui arrastado para dentro do rio com todas
 
 Depois de fazer a mudança no meio da noite abaixo de chuva, estava tudo tranquilo. A chuva apertou novamente, mas agora eu estava a salvo. Porém a chuva espantou para o mesmo lugar que eu estava um cara muito bêbado que estava falando com ele mesmo... muito loco, eu tinha a nítida impressão que ele falava com mais de uma pessoa ao mesmo tempo, tentei contar e pude identificar uns 5 amigos diferentes, e ele também não parava de repetir a palavra "baguinho". Ele ficou lá a noite toda! Enfim... não tinha o que fazer, tentei conversar com ele, assustar ele, colocar a lanterna na cara dele pra ver se ele desistia... nada funcionou. Deixei ele falando sozinho e fui tentar dormir. No outro dia eu descobri que ele era famoso na cidade e que todo mundo conhecia ele por "baguinho" (porque será??), felizmente foi a única noite que ele passou comigo.
 
-<div class="flex-video">
-  <iframe src="https://www.youtube.com/embed/kx1U53N3nY0" frameborder="0" allowfullscreen></iframe>
-</div>
+
+{% include youtubePlayer.html id="kx1U53N3nY0" %}
 
 Passei dois dias em Barrerinhas e depois fui de barco para Atins, um povoado que fica dentro do Parque Nacional dos Lençóis Maranhenses. Lá fui recebido por Facundo (via couchsurfing), um argentino que já vive a alguns anos por lá.
 
