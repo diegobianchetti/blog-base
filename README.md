@@ -11,6 +11,29 @@ Imagens nos posts devem ter as seguintes configuracões:
 image: large 1600x1200 - imagem que aparece do lado esquerdo é a mesma imagem principal do post
 image-sm: medium 500x375 - imagem que aparece nas categorias
 
+*Criar galeria de imagem*
+No cabecalho do post definir:
+```
+gallery:
+  - link imagem 1
+  - link imagem 1
+  - link imagem N
+```
+Para apresentar a galeria do corpo do post é só dar um include na galeria de imagens com o código abaixo:
+```
+{% include gallery.html %}
+```
+
+*Inclusão de video do youtube*
+referência: https://adam.garrett-harris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/
+
+Na posicão do post que quero o video só preciso dar um include no player com o código abaixo:
+```
+{% include youtubePlayer.html id="kx1U53N3nY0" %}
+```
+
+
+
 Menu sobre possui uma configuracão a parte, me baseie na estrutura do archive para criar esse item no menu e linkar com o conteúdo que está no html separado.
      - no diretorio _includes criei o arquivo about-link.html que cria o link e aponta para <sitel.url>/about/
      - na raiz do site criei o about.hmtl (pode ser outro nome) e no cabecalho de configuracão desse aquivo defini permalink: /about/
