@@ -25,7 +25,7 @@ Para apresentar a galeria do corpo do post é só dar um include na galeria de i
 {% include gallery.html %}
 ```
 
-*Inclusão de video do youtube*
+- Inclusão de video do youtube - 
 
 Referência: https://adam.garrett-harris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/
 
@@ -43,7 +43,7 @@ Menu "Sobre" possui uma configuracão a parte, me baseie na estrutura do archive
      - na raiz do site criei o about.hmtl (pode ser outro nome) e no cabecalho de configuracão desse aquivo defini permalink: /about/
 
 
-Toda estrutura do está no diretório base do tema ~/Workspace/TortugaVoladora/tortugavoladora.life. O conteúdo desse diretório é toda a estrutura do site. Baixando o repositório dele é possível compilar site do zero e gerar o conteúdo completo.
+Toda estrutura do blog está no diretório base do tema ~/Workspace/TortugaVoladora/tortugavoladora.life. O conteúdo desse diretório é toda a estrutura do site. Baixando o repositório dele é possível compilar site do zero e gerar o conteúdo completo.
 
 Reporitório BLOG-BASE (https://github.com/diegobianchetti/blog-base)
 
