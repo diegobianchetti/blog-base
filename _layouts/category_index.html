@@ -25,6 +25,10 @@ layout: default
     </header>
 
     <div class="tab">
+      {% capture description %}{% file_exists _includes/{{ page.title | downcase }}.html %}{% endcapture %}
+      {% if description == "true" %}
+        {% include {{ page.title | downcase }}.html %}
+      {% endif %}
       <ul itemscope itemtype="http://schema.org/Blog">
         {% for post in site.categories[page.title] %}
           <li class="preview" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
