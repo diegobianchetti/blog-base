@@ -16,12 +16,11 @@ tags:
 description:
 image: https://farm5.staticflickr.com/4194/34266914302_196eb0f368_h.jpg
 image-sm: https://farm3.staticflickr.com/2812/34295276671_80cf8210bd.jpg
-
 ---
 
 Primeiro dia de viagem, chegar até o ponto de partida.
 
-Como a viagem tinha um tempo limitado para acontecer, 30 dias (férias), e a rota era demasiada extensa para ir e voltar, utilizei o ônibus para ir até o ponto de partida, a cidade de São Luís no estado do Maranhão. 
+Como a viagem tinha um tempo limitado para acontecer, 30 dias (férias), e a rota era demasiada extensa para ir e voltar, utilizei o ônibus para ir até o ponto de partida, a cidade de São Luís no estado do Maranhão.
 
 O que estava me deixando um pouco apreensivo na primeira parte da viagem era justamente o transporte da bicicleta e equipamento. Apreensivo porque a esmagadora maioria das empresas de ônibus para transporte de passageiro no Brasil não possuem uma política, tampouco disponibilizam informações para o transporte de bicicletas. E tudo piorou quando liguei para a rodoviária para obter informações. A pessoa que me atendeu disse que eu teria que conversar com o motorista na hora de embarcar, era ele a pessoa responsável por decidir se eu poderia levar a bike ou não. Outra coisa que poderia acontecer era ter que pagar uma taxa de excesso de peso.
 

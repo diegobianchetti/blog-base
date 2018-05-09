@@ -12,6 +12,7 @@ image: large 1600x1200 - imagem que aparece do lado esquerdo é a mesma imagem p
 image-sm: medium 500x375 - imagem que aparece nas categorias
 
 *Criar galeria de imagem*
+
 No cabecalho do post definir:
 ```
 gallery:
@@ -25,7 +26,8 @@ Para apresentar a galeria do corpo do post é só dar um include na galeria de i
 ```
 
 *Inclusão de video do youtube*
-referência: https://adam.garrett-harris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/
+
+Referência: https://adam.garrett-harris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/
 
 Na posicão do post que quero o video só preciso dar um include no player com o código abaixo:
 ```
