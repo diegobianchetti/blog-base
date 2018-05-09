@@ -34,9 +34,11 @@ Na posicão do post que quero o video só preciso dar um include no player com o
 {% include youtubePlayer.html id="kx1U53N3nY0" %}
 ```
 
+*Descricão de Pojeto*
+Para adicionar uma descricão de projeto é necessário criar um arquivo no diretório _includes no mesmo formado do arquivo nordesde2017.html. Esse arquivo deve armazenar o texto e demais elementos que serão utilizados na apresentacão do projeto e esse texto será importado pelo layout 'category_index.html'.
 
 
-Menu sobre possui uma configuracão a parte, me baseie na estrutura do archive para criar esse item no menu e linkar com o conteúdo que está no html separado.
+Menu "Sobre" possui uma configuracão a parte, me baseie na estrutura do archive para criar esse item no menu e linkar com o conteúdo que está no html separado.
      - no diretorio _includes criei o arquivo about-link.html que cria o link e aponta para <sitel.url>/about/
      - na raiz do site criei o about.hmtl (pode ser outro nome) e no cabecalho de configuracão desse aquivo defini permalink: /about/
 
