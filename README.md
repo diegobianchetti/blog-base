@@ -1,4 +1,4 @@
-* O que otimizei no blog até agora e o que estou utilizando para manter o conteúdo. *
+***O que otimizei no blog até agora e o que estou utilizando para manter o conteúdo***
 
 - Jekyll para criar o blog com conteúdo estático. (https://jekyllrb.com/)
 O tema que estou utilizando é Trophy-Jekyll (https://github.com/thomasvaeth/trophy-jekyll)
