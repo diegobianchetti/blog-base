@@ -8,8 +8,8 @@ As imagens são armazenadas no Flickr e são exibidas no blog por links. (https:
 
 - Imagens nos posts devem ter as seguintes configuracões:
 
-  -- image: large 1600x1200 - imagem que aparece do lado esquerdo é a mesma imagem principal do post
-  -- image-sm: medium 500x375 - imagem que aparece nas categorias
+  - image: large 1600x1200 - imagem que aparece do lado esquerdo é a mesma imagem principal do post
+  - image-sm: medium 500x375 - imagem que aparece nas categorias
 
 - **Criar galeria de imagem**
 
