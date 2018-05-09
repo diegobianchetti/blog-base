@@ -1,17 +1,17 @@
-O que otimizei no blog até agora e o que estou utilizando para manter o conteúdo.
+** O que otimizei no blog até agora e o que estou utilizando para manter o conteúdo. **
 
-Jekyll para criar o blog com conteúdo estático. (https://jekyllrb.com/)
+- Jekyll para criar o blog com conteúdo estático. (https://jekyllrb.com/)
 O tema que estou utilizando é Trophy-Jekyll (https://github.com/thomasvaeth/trophy-jekyll)
 
-Tudo está armazenado e utilizando o servico HTTP do GitHub. (https://github.com)
+- Tudo está armazenado e utilizando o servico HTTP do GitHub. (https://github.com)
 As imagens são armazenadas no Flickr e são exibidas no blog por links. (https://www.flickr.com/)
 
-Imagens nos posts devem ter as seguintes configuracões:
+- Imagens nos posts devem ter as seguintes configuracões:
 
-image: large 1600x1200 - imagem que aparece do lado esquerdo é a mesma imagem principal do post
-image-sm: medium 500x375 - imagem que aparece nas categorias
+  -- image: large 1600x1200 - imagem que aparece do lado esquerdo é a mesma imagem principal do post
+  -- image-sm: medium 500x375 - imagem que aparece nas categorias
 
-*Criar galeria de imagem*
+- **Criar galeria de imagem**
 
 No cabecalho do post definir:
 ```
@@ -25,7 +25,7 @@ Para apresentar a galeria do corpo do post é só dar um include na galeria de i
 {% include gallery.html %}
 ```
 
-- Inclusão de video do youtube - 
+- **Inclusão de video do youtube**
 
 Referência: https://adam.garrett-harris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/
 
@@ -34,10 +34,11 @@ Na posicão do post que quero o video só preciso dar um include no player com o
 {% include youtubePlayer.html id="kx1U53N3nY0" %}
 ```
 
-*Descricão de Pojeto*
+- **Descricão de Pojeto**
 Para adicionar uma descricão de projeto é necessário criar um arquivo no diretório _includes no mesmo formado do arquivo nordesde2017.html. Esse arquivo deve armazenar o texto e demais elementos que serão utilizados na apresentacão do projeto e esse texto será importado pelo layout 'category_index.html'.
 
 
+- **Sobre**
 Menu "Sobre" possui uma configuracão a parte, me baseie na estrutura do archive para criar esse item no menu e linkar com o conteúdo que está no html separado.
      - no diretorio _includes criei o arquivo about-link.html que cria o link e aponta para <sitel.url>/about/
      - na raiz do site criei o about.hmtl (pode ser outro nome) e no cabecalho de configuracão desse aquivo defini permalink: /about/
