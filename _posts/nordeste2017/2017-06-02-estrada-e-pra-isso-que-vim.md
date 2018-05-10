@@ -34,11 +34,11 @@ No primeiro dia já tinha entendido que precisaria pedalar de calça e camisa c
 
 Depois continuei o pedal até Humberto de Campos, a chuva voltou e não foi mais. Até parei num mercadinho na entrada da cidade e fiquei conversando com locais por mais de hora, mas como a chuva só aumentava resolvi seguir orientado por eles e mais algumas pessoas até encontrar uma pousada acessível. Eu queria acampar, mas só ia rolar se fosse na praça da cidade e com aquela chuva e a festa de carnaval na cidade não tive dúvida, entrei na pousada.
 
-Saí de Humberto de Campos por volta das 7horas da manhã. Um dia lindo que novamente se transformou numa panela de pressão, com muito sol, muita chuva, mas com pouco vento contra dessa vez. O que começou a incomodar um pouco foi uma dor aguda nos nos dois joelhos. Tenho certeza que isso está relacionado com o peso da bike (aproximadamente 50kg) e minha empolgação inicial de querer manter uma média de velocidade que tinha idealizado (chegou a hora de acabar com as últimas expectativas e deixar a viagem simplesmente acontecer). Vou descansar alguns dias em Barreirinhas enquanto procuro soluções para a rota. Não tenho certeza se vou conseguir concluir todo o percurso no tempo que tenho disponível. Essa viagem não se trata só de pedalar, tenho o profundo interesse em conhecer a região e principalmente as pessoas, trocar experiências e aprender.
+Saí de Humberto de Campos por volta das 7horas da manhã. Um dia lindo que novamente se transformou numa panela de pressão, com muito sol, muita chuva, mas com pouco vento contra dessa vez. O que começou a incomodar um pouco foi uma dor agúda nos nos dois joelhos. Tenho certeza que isso está relacionado com o peso da bicicleta (aproximadamente 50kg) e minha empolgação inicial de querer manter uma média de velocidade que tinha idealizado (chegou a hora de acabar com as últimas expectativas e deixar a viagem simplesmente acontecer). Vou descansar alguns dias em Barreirinhas enquanto procuro soluções para a rota. Não tenho certeza se vou conseguir concluir todo o percurso no tempo que tenho disponível. Essa viagem não se trata só de pedalar, tenho o profundo interesse em conhecer a região e principalmente as pessoas, trocar experiências e aprender.
 
 Depois de 190km nos últimos 2 dias, chegar em Barreirinhas foi muito bom. A estrada é linda. Na saída da MA-402 para a MA-225, no Povoado Sobradinho, cruzei o rio Preguiça e comecei a sentir a força viva da natureza se manifestando de uma maneira muito intensa. Todos meus sentidos estão se abrindo.
 
-
+{% include gallery.html %}
 
 Como cheguei cedo na cidade, por volta das 3horas da tarde, tive tempo para dar uma volta e conversar com algumas pessoas. Decidi acampar e usar o dinheiro da hospedagem para fazer os passeios nos lençóis e pelo rio. Foi a melhor decisão que eu poderia ter tomado.
 
@@ -46,10 +46,7 @@ Na primeira noite aprendi que devia ter seguido a orientação das pessoas que m
 
 Choveu tanto, mas tanto, que eu quase fui arrastado para dentro do rio com todas minhas coisas. Logo na primeira pancada, ou melhor, dilúvio, descobri que eu estava justamente localizado na foz das 4 ruas que se encontravam perto da saída pro rio onde eu estava acampado. Isso quer dizer, toda a água da chuva dessas ruas chegava no rio através do 'beco' onde eu estava. Foi realmente incrível a força da chuva e assim que ela deu uma trégua eu me apressei para levantar acampamento e mover tudo para um local menos perigoso. Além de toda a água que decia pela ruela que eu estava, o nível do rio também estava subindo devido a cheia da maré (eu realmente pensei que o rio ia chegar onde a barraca estava). Enfim, nada foi parecido ao sonho maravilhoso que eu estava tendo no momento que encontrei esse lugar e montei acampamento.
 
-{% include gallery.html %}
-
 Depois de fazer a mudança no meio da noite abaixo de chuva, estava tudo tranquilo. A chuva apertou novamente, mas agora eu estava a salvo. Porém a chuva espantou para o mesmo lugar que eu estava um cara muito bêbado que estava falando com ele mesmo... muito loco, eu tinha a nítida impressão que ele falava com mais de uma pessoa ao mesmo tempo, tentei contar e pude identificar uns 5 amigos diferentes, e ele também não parava de repetir a palavra "baguinho". Ele ficou lá a noite toda! Enfim... não tinha o que fazer, tentei conversar com ele, assustar ele, colocar a lanterna na cara dele pra ver se ele desistia... nada funcionou. Deixei ele falando sozinho e fui tentar dormir. No outro dia eu descobri que ele era famoso na cidade e que todo mundo conhecia ele por "baguinho" (porque será??), felizmente foi a única noite que ele passou comigo.
-
 
 {% include youtubePlayer.html id="kx1U53N3nY0" %}
 
