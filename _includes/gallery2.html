@@ -6,16 +6,18 @@
 {% endcomment %}
 
 <div class="gallery" align="center">
-	<div class="thumbnails">
+	<ul class="thumbnails">
 		{% for image_url in page.gallery2 %}
 		{% assign imgIndex = {{forloop.index}} %}
 		<img onmouseover="preview2.src=img_{{imgIndex}}.src" name="img_{{imgIndex}}" src="{{ image_url }}">
 		{% assign last_img_url2 = image_url %}
 		{% endfor %}
-	</div>
+	</ul>
 
 	<div class="preview" align="center">
+		<br>
 		<img name="preview2" src="{{ last_img_url2 }}"/>
+		<br>
 	</div>
 
 </div>
