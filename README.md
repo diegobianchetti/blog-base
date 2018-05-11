@@ -13,7 +13,7 @@ As imagens são armazenadas no Flickr e são exibidas no blog por links. (https:
 
 - **Criar galeria de imagem**
 
-No cabecalho do post definir:
+Para galeria estática - no cabecalho do post definir:
 ```
 gallery:
   - link imagem 1
@@ -24,6 +24,31 @@ Para apresentar a galeria do corpo do post é só dar um include na galeria de i
 ```
 {% include gallery.html %}
 ```
+É possivel adionar uma galeria de imagens estática adicional:
+```
+gallery2:
+  - link imagem 1
+  - link imagem 1
+  - link imagem N
+```
+Para apresentar a galeria do corpo do post é só dar um include na galeria de imagens com o código abaixo:
+```
+{% include gallery2.html %}
+```
+
+
+Para galeria com SWIPE - no cabecalho do post definir:
+```
+swipe_gallery:
+  - link imagem 1
+  - link imagem 1
+  - link imagem N
+```
+Para apresentar a galeria do corpo do post é só dar um include na galeria de imagens com o código abaixo:
+```
+{% include swipe-gallery.html %}
+```
+
 
 - **Inclusão de video do youtube**
 
@@ -33,6 +58,11 @@ Na posicão do post que quero o video só preciso dar um include no player com o
 ```
 {% include youtubePlayer.html id="kx1U53N3nY0" %}
 ```
+
+- **Adicionando comentários aos posts**
+  - https://blog.webjeda.com/jekyll-comments/
+  - criei o arquivo `_includes/disqus.html`
+  - no `_layouts/post.html` difine o local de insercão dos comentários em todos os posts declarando `{% include disqus.html %}`
 
 **Descricão de Pojeto**
 - Para adicionar uma descricão de projeto é necessário criar um arquivo no diretório _includes no mesmo formado do arquivo nordesde2017.html. Esse arquivo deve armazenar o texto e demais elementos que serão utilizados na apresentacão do projeto e esse texto será importado pelo layout 'category_index.html'.
