@@ -1,1 +1,1 @@
-grep -o -P '(?<=\[img\]).*(?=\[/img\])' fotos-url
+grep -o -P '(?<=\[img\]).*(?=\[/img\])' fotos-url > fotos
