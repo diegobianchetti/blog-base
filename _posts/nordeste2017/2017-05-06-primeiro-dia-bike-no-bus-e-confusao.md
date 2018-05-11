@@ -4,16 +4,18 @@ title: "Primeiro dia: Bike no bus é confusão?"
 date: 2017-05-06 21:12:59
 subheadline:  "Nordeste2017"
 categories:
-    - Nordeste2017
+  - Nordeste2017
 tags:
-    - bicicleta
-    - cicloturismo
-    - clicloviagem
-    - bike
-    - biketravel
-    - Brasil
-    - Nordeste
-description:
+  - bicicleta
+  - bike
+  - clicloviagem
+  - viajeenbici
+  - biketravel
+  - nomade
+  - vuelatortuga
+  - TortugaVoladora
+  - Brasil
+  - Nordeste
 image: https://farm5.staticflickr.com/4194/34266914302_196eb0f368_h.jpg
 image-sm: https://farm3.staticflickr.com/2812/34295276671_80cf8210bd.jpg
 ---

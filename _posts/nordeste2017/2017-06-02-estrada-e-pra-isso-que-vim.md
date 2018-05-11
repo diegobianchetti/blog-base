@@ -6,15 +6,17 @@ categories:
   - Nordeste2017
 tags:
   - bicicleta
-  - cicloturismo
-  - clicloviagem
   - bike
+  - clicloviagem
+  - viajeenbici
   - biketravel
+  - nomade
+  - vuelatortuga
+  - TortugaVoladora
   - Brasil
   - Nordeste
-description:
 image: https://farm5.staticflickr.com/4245/34869670686_92c5b4da48_h.jpg
-image-sm: https://farm3.staticflickr.com/2812/34295276671_a23e4235d6_k.jpg
+image-sm: https://farm5.staticflickr.com/4274/34523626140_e7880df2ed_z.jpg
 
 gallery:
   - https://farm5.staticflickr.com/4227/34778996811_4edc021d3f_z.jpg

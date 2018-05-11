@@ -3,16 +3,18 @@ layout: post
 title: "Bike na estrada!"
 date: 2017-05-21 19:56:33
 categories:
-    - Nordeste2017
+  - Nordeste2017
 tags:
-    - bicicleta
-    - cicloturismo
-    - clicloviagem
-    - bike
-    - biketravel
-    - Brasil
-    - Nordeste
-description:
+  - bicicleta
+  - bike
+  - clicloviagem
+  - viajeenbici
+  - biketravel
+  - nomade
+  - vuelatortuga
+  - TortugaVoladora
+  - Brasil
+  - Nordeste
 image: https://farm1.staticflickr.com/820/40474316594_64283f71ab_h.jpg
 image-sm: https://farm5.staticflickr.com/4305/35121379144_2517050022_z.jpg
 
