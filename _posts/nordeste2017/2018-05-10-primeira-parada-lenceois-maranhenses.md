@@ -55,7 +55,7 @@ Em Atins, fiquei hospedado via couchsourfing na casa de Facundo, um argentino qu
 
 Atins é um povoado que já possui muitos estrangeiros e pessoas do sudeste do Brasil como proprietários dos restaurantes e pousadas. Os moradores originais do povoado estão vendendo suas propriedades em Atins e migrando para um outro povoado, um pouco mais afastado, chamado Santo Amaro.
 
-Montei minha "carpa" no quintal de Facundo, sob um céu completamente estrelado com a lua crescente linda e misteriosa. Novamente dormi com as muriçocas!!! O que é certo até agora... elas estão em todos os lugares e é praticamente impossível se proteger desse bichinho tão pequeno e frágil. Fico pensando que é mais fácil pedalar 120km com a bicicleta pesando 50kg do que se proteger das muriçocas durante a noite...
+Montei minha _carpa_ no quintal de Facundo, sob um céu completamente estrelado com a lua crescente linda e misteriosa. Novamente dormi com as muriçocas!!! O que é certo até agora... elas estão em todos os lugares e é praticamente impossível se proteger desse bichinho tão pequeno e frágil. Fico pensando que é mais fácil pedalar 120km com a bicicleta pesando 50kg do que se proteger das muriçocas durante a noite...
 
 O tempo em Atins me permitiu uma reconexão, me trouxe paz e o entendimento de que tudo que planejei não pode ser rígido, não posso simplesmente criar expectativas viajando e vivendo da maneira que me propus. Vou me abrir totalmente e deixar vir o que vier... só assim poderei realmente viver todas as experiências dessa viajem sem ficar irritado ou brigando comigo mesmo. Esse é o mais interessante de viajar sozinho até agora, não tenho com quem reclamar nem brigar quando algo não vai bem... hehehehe.
 
