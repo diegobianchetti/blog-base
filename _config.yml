@@ -3,14 +3,14 @@ email: diego.bianchetti@gmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics:
+google_analytics: "UA-119164403-1"
 
 # SEO settings
 title: TortugaVoladora
 description: "Vuela vuela tortuguita con alas!"
 url: "tortugavoladora.life"
 twitter_username:
-default_img:
+default_img: https://farm1.staticflickr.com/872/26263919417_3a7a694f7e_o.jpg
 
 # Profile settings
 name: Diego Bianchetti
