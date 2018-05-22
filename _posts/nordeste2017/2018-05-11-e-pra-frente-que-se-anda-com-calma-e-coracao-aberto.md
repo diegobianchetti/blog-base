@@ -35,6 +35,7 @@ gallery:
   - https://farm1.staticflickr.com/960/41317664794_a70e1b4158_b.jpg
   - https://farm1.staticflickr.com/965/41993651192_939099c7d1_b.jpg
   - https://farm1.staticflickr.com/944/28164776048_d7512117a8_b.jpg
+  - https://farm1.staticflickr.com/881/27414245457_42248afcd5_h.jpg
 
 swipe_gallery:
   - https://farm1.staticflickr.com/946/28164722648_819625d129_b.jpg
@@ -117,6 +118,6 @@ Depois de um pouco mais de 40km no Ceará, ainda faltando uns 25km para chegar e
 
 Depois de sair da casa de seu Raimundo, faltava 22km para chegar em Camocim, o trocador diânteiro da bicicleta simplesmente parou de passar as marchas. Pedalei assim até a cidade é entrei na primeira loja de bicicletas que encontrei, la conheci Renato, o mecânico da loja. O cara deu uma geral na Tortuga, arrumou as marchas e limpou a corrente e os câmbios e não me deixou pagar pelo conserto. Disse que me eentendi e sabia como era difícil viajar de bicicleta no nosso país, queria contribuir de alguma forma com minha viagem. Agradeci muito e após uma agradável conversa segui para pier da cidade procurar algum lugar para passar a noite.
 
-Assim que cheguei no pier encontrei 5 artesões hippies, 2 casais (Jordan e Helena do Pará e, Adriano e Suelen de Parnaíba/PI) e Jeguinho (esse cara é uma lenda cheia de histórias) desde os 12 anos na estrada (BR). Todos estavam procurando um lugar para passar a noite e resolvemos juntar forças para encontrar algum lugar seco para dormir. Depois de muita conversa e por indicação de uma moradora da cidade, Jane, fomos bater em um pavilhão de sucatas da prefeitura, do lado de um estacionamento que também é da prefeitura. Essa noite nem montei a barraca, sobre uma chapa de compensado abri o saco de dormir e fiquei com a bicicleta do meu lado.
+Assim que cheguei no pier encontrei 5 artesões, 2 casais (Jordan e Helena do Pará e, Adriano e Suelen de Parnaíba/PI) e Jeguinho (esse cara é uma lenda cheia de histórias) desde os 12 anos na estrada (BR). Todos estavam procurando um lugar para passar a noite e resolvemos juntar forças para encontrar algum lugar seco para dormir. Depois de muita conversa e por indicação de uma moradora da cidade, Jane, fomos bater em um pavilhão de sucatas da prefeitura, do lado de um estacionamento que também é da prefeitura. Essa noite nem montei a barraca, sobre uma chapa de compensado abri o saco de dormir e fiquei com a bicicleta do meu lado.
 
 Acordei cedo, fiz um bom aquecimento e alongamento. Me despedi do pessoal e fui até o mercado público encontrar um lugar para tomar um café. O caminho de hoje me leva para mais um paraíso que virou ponto turístico cobiçado, Jericoacoara/CE.
