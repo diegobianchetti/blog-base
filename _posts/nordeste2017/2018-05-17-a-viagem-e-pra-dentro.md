@@ -140,7 +140,7 @@ Bora cruzar FORTALEZA e conhecer Jonas na praia do Japão em Aquiraz/CE!
 
 _Que dia fantástico, duro, me colocou no meu devido lugar de ser insignificante, mas pertencente ao movimento do universo, onde tudo que se harmoniza com esse movimento é belo, pacífico e amoroso, mesmo quando é preso a dogmas e é objeto de manipulação. Parte integrante e força motriz que impulsiona a estaca que fura o próprio peito e rouba a alma. Em algum momento mais pessoas vão acreditar num mundo realmente livre de preconceitos e agressão._
 
-Durante o pedal, lá pelo km 120 do dia, Edu, Manu e Cleo passaram por mim na estrada e pararam pra me dar um abraço, água, rapadura e a motivação que eu precisava para cumprir aquele dia.
+Durante o pedal, lá pelo km 120 do dia, Edu, Manu e Klelia passaram por mim na estrada e pararam pra me dar um abraço, água, rapadura e a motivação que eu precisava para cumprir aquele dia.
 
 Me conectei em diversos momentos ao vento pela respiração. Só iria parar para almoçar quando chegasse em Iparana, na entrada de Fortaleza. Edu havia sugerido o restaurante do SESC, lá poderia almoçar bem por uma valor justo e ainda teria a possibilidade de ver o projeto peixe-boi do SESC. Infelizmente o segurança do SESC que não me deixou entrar no restaurante porque eu estava de bicicleta, depois de insistir bastante desisti e segui viagem sem almoçar... muito triste saber que do mesmo modo que as pessoas se solidarizam e querem se aproximar de quem está numa cicloviagem também existem pessoas totalmente contrárias... enfim, só me cabe aceitar.
 
