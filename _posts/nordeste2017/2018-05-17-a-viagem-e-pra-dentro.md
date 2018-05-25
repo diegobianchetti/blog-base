@@ -22,6 +22,7 @@ gallery:
   - https://farm1.staticflickr.com/969/42237756982_1d1758fbae_h.jpg
   - https://farm1.staticflickr.com/974/41562908144_d0720d0e9a_h.jpg
   - https://farm1.staticflickr.com/873/42237810172_1906bed7d3_h.jpg
+  - https://farm1.staticflickr.com/981/42238023632_f903558f63_h.jpg
   - https://farm1.staticflickr.com/982/41382566775_7f441a1ffd_h.jpg
   - https://farm1.staticflickr.com/973/42284035101_d2c0daf5c3_h.jpg
   - https://farm1.staticflickr.com/889/41562971054_e4652af8ec_h.jpg
