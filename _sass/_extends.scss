@@ -42,7 +42,9 @@
 
 .preview img {
 	border: 1px solid #444;
-	padding: 0px;
-	width: 720px;
-  height: 480px;
+  padding: 0px;
+  max-width:720px;
+  max-height:480px;
+  width: auto;
+  height: auto;
 }
