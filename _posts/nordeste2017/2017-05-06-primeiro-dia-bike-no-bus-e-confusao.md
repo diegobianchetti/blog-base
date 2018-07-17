@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Primeiro dia: Bike no bus é confusão?"
-date: 2017-05-06 21:12:59
+date: 2017-05-06 16:20:00
 subheadline:  "Nordeste2017"
 categories:
   - Nordeste2017

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Estrada! é pra isso que vim...
-date: 2017-06-02 01:29:33
+date: 2017-06-02 16:20:00
 categories:
   - Nordeste2017
 tags:
