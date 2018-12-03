@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bojuru na Estrada!"
-date: 2018-11-02 16:20:00
+date: 2018-12-02 16:20:00
 categories:
     - BojurunaEstrada
 tags:
@@ -10,6 +10,7 @@ tags:
     - clicloviagem
     - bike
     - biketravel
+    - TortugaVoladora
     - Brasil  
     - Rio Grande do Sul
 description:
@@ -107,7 +108,7 @@ Faz tempo que procuramos uma outra forma de viajar... uma forma mais simples, ma
 
 Esse post é simplesmente a transcrição do diário de bordo da viagem. Simples e direto, sem "floreios"... aqui estou mais preocupado em manter o registro original e torná-lo disponível, principalmente para as pessoas que encontraram, junto comigo, essa nova forma de viajar.
 
-Pra comecar apresento um vídeo curto de 6 minutos, que faz uma síntese de toda viagem... O que provavelmente tenha ficado mais interessante que o próprio texto. Mas garanto, as fotos também estão bem bacanas.
+Pra começar um vídeo curto, 6 minutos, que faz uma síntese de toda viagem... O que provavelmente tenha ficado mais interessante que o próprio texto, mesmo sendo uma edição totalmente amadora. As fotos também estão bem bacanas.
 
 
 {% include youtubePlayer.html id="y3DCyBn5o7c" %}
@@ -229,3 +230,8 @@ Só gratidão!
 
 
 {% include gallery.html%}
+
+<br><br>
+Aos irmãos, Frena e Wia, que estiveram juntos nessa jornada e a todas as pessoas maravilhosas, ou não, que encontramos pelo caminho... GRATIDÃO!
+
+Estamos aqui para aprender a cada momento... com respeito, amor e verdade!
