@@ -105,7 +105,7 @@ git push origin master (gpo master)
 ```
 
 - **Atualizando repositórios**
-O script build-and-update-commit.sh executa os comando necessários para o gerar o conteúdo estático através do build e depois envia as alteracões locais para os repositórios.
+O script build-and-update-commit.sh executa os comando necessários para o gerar o conteúdo estático através do build e envia as alteracões locais para os repositórios, tanto do site estático quanto do conteúdo gerador do site estático, servindo assim como um backup geral.
 
 ```
  2018-05-05 22:26:02 ⌚  tortuga in ~/Workspace/TortugaVoladora/tortugavoladora.life
@@ -116,3 +116,11 @@ Usage: sh build-and-update-commit.sh "commint message"
 
 - **O Analytics foi adicionado ao blog seguindo esse toturial**
 https://michaelsoolee.com/google-analytics-jekyll/
+
+
+
+- **Solucão de alguns problemas que estava tendo com Jekyll na geracão do site depois de muito tempo sem atualizar ambos, o site e o sistema**
+```
+gem update
+bundle update jekyll
+```
