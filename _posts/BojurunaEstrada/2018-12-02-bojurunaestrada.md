@@ -78,7 +78,6 @@ swipe_gallery:
   - https://farm5.staticflickr.com/4833/32286829718_73a93f2859_h.jpg
   - https://farm5.staticflickr.com/4897/46154639921_b468082712_h.jpg
   - https://farm5.staticflickr.com/4903/46104002292_c6e7a85c1a_h.jpg
-  - https://farm5.staticflickr.com/4903/46104002292_c6e7a85c1a_h.jpg
   - https://farm5.staticflickr.com/4885/31215266597_e7a54ab8a0_h.jpg
   - https://farm5.staticflickr.com/4856/45242327835_cd8c06f70b_h.jpg
   - https://farm5.staticflickr.com/4861/45242307495_23b9c40d68_h.jpg
