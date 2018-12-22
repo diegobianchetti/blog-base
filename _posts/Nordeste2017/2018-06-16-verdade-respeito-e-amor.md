@@ -342,6 +342,6 @@ Logo cedo pela manhã estava de pé. Tomei um café reforçado e 5:15AM comecei 
 
 <center>GRATIDÃO!</center><br>
 
-*Amanhã tem tudo para ser um pedal tranquilo e dependendo de como for o pedal vou almoçar em algum restaurando vegetariano em Recife, tomar agua de coco e um açaí na casa do Pará... HAHAHAHA.... Planos e expectativas não servem pra nada OTÁRIO!*
+*Amanhã tem tudo para ser um pedal tranquilo e dependendo de como for o pedal vou almoçar em algum restaurante vegetariano em Recife, tomar agua de coco e um açaí na casa do Pará... HAHAHAHA.... Planos e expectativas não servem pra nada OTÁRIO!*
 
 *SE PERMITA, SE LIBERTE!!*
