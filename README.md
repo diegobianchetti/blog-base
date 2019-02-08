@@ -1,5 +1,22 @@
 ***O que otimizei no blog até agora e o que estou utilizando para manter o conteúdo***
 
+**Importante para o GitHub**
+
+```
+2019-02-08 19:59:21 ⌚  tortuga in ~/Workspace/TortugaVoladora/tortugavoladora.life
+± |master ✓| → git remote -v
+origin	git@github.com:diegobianchetti/blog-base.git (fetch)
+origin	git@github.com:diegobianchetti/blog-base.git (push)
+
+2019-02-08 19:59:33 ⌚  tortuga in ~/Workspace/TortugaVoladora/tortugavoladora.life
+± |master ✓| → cd _site/
+
+2019-02-08 19:59:37 ⌚  tortuga in ~/Workspace/TortugaVoladora/tortugavoladora.life/_site
+± |master ✓| → git remote -v
+origin	git@github.com:diegobianchetti/tortugavoladora.life.git (fetch)
+origin	git@github.com:diegobianchetti/tortugavoladora.life.git (push)
+```
+
 - Jekyll para criar o blog com conteúdo estático. (https://jekyllrb.com/)
 O tema que estou utilizando é Trophy-Jekyll (https://github.com/thomasvaeth/trophy-jekyll)
 
